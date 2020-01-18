@@ -14,8 +14,10 @@
 
 ----
 
+:data-z: -3600
 :data-rotate-y: 90
 :data-y: -4800
+
 
 Hallo!
 ======
@@ -23,6 +25,7 @@ Hallo!
 ----
 
 :data-y: -3200
+
 
 
 Vor einigen Jahren habe ich von einem Freund ein bestimmtes Kommunikationskonzept empfohlen bekommen.
@@ -193,39 +196,16 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
 :data-rotate-y: 0
 :data-x: -3200
 :data-y: -200
-:data-z: 800
+:data-z: 1200
 
 Beispiele
 =========
-
-
 
 
 .. note::
     - 2.: Partner oder Kind
     - Socken im Wohnzimmer liegen lassen
     - Milch kaufen vergessen
-
-
-----
-
-:data-x: 9000
-:data-y: 9000
-:data-z: 0
-
-
-Drei Entwicklungsstufen
-=======================
-
-1. Vom eigenen Bedürfnis entfremdet
-2. Den eigenen Bedürfnissen uneingeschränkt nachgeben (rebellische Phase)
-3. Verantwortung für die Bedürfnisse anderer übernehmen
-
-.. note::
-    - Fließender Übergang
-    - 1: Unglücklich, zurückgezogen, krank (Beispiel: Kind unter Notendruck)
-    - 2: Agressiv, unnachgibig ("ach scheiß drauf", "rutsch mir den buckel runter")
-    - 3: In Kontakt mit den eigenen Bedürfnissen und den Bedürfnissen anderer
 
 
 ----
@@ -339,8 +319,8 @@ Verneinungen vermeiden
 ----
 
 
-:data-x: 0
-:data-y: 0
+:data-x: 90000
+:data-y: 90000
 :data-z: 0
 
 
@@ -356,5 +336,24 @@ Affiliate links:
 GFK Hörspiel
 GFK Hörspiel english
 Bücher
+
+
+----
+
+
+Drei Entwicklungsstufen
+=======================
+
+1. Vom eigenen Bedürfnis entfremdet
+2. Den eigenen Bedürfnissen uneingeschränkt nachgeben (rebellische Phase)
+3. Verantwortung für die Bedürfnisse anderer übernehmen
+
+.. note::
+    - Fließender Übergang
+    - 1: Unglücklich, zurückgezogen, krank (Beispiel: Kind unter Notendruck)
+    - 2: Agressiv, unnachgibig ("ach scheiß drauf", "rutsch mir den buckel runter")
+    - 3: In Kontakt mit den eigenen Bedürfnissen und den Bedürfnissen anderer
+
+
 
 
