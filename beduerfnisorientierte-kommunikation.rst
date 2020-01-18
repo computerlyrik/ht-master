@@ -16,7 +16,7 @@
 
 :data-z: -3600
 :data-rotate-y: 90
-:data-y: -4800
+:data-y: -2400
 
 
 Hallo!
@@ -24,7 +24,7 @@ Hallo!
 
 ----
 
-:data-y: -3200
+:data-y: -1200
 
 
 
@@ -36,7 +36,7 @@ Heute stelle ich euch dieses Konzept im Rahmen meiner Human-Therapy-Masterarbeit
 
 ----
 
-:data-y: -1600
+:data-y: -600
 
 
 Das Konzept hat mir gibt mir Selbstvertrauen gegeben. Ich fühle mich sichererer in der Kommunikation mit anderen und
@@ -47,12 +47,12 @@ Darüber freue ich mich sehr und möchte es nicht mehr missen.
 
 :data-y: 0
 
-Mir ist es ein Bedürfnis, dieses Wissen weiterzugeben und wünsche mir, dass es noch viele Menschen positiv beeinflusst und 
-näher zu sich selbst und in Kontakt zu anderen bringt.
+Mir ist es ein Bedürfnis, dieses Wissen weiterzugeben und wünsche mir, dass es noch viele Menschen positiv beeinflusst und sowohl
+näher zu sich selbst als auch in emphatischen Kontakt zu anderen bringt.
 
 ----
 
-:data-y: 1600
+:data-y: 600
 
 Ich bitte euch aufmerksam zuzuhören, die Informationen in euch aufzunehmen und der Einladung zu folgen, die Techniken
 in euren Alltag zu übertragen.
@@ -84,6 +84,9 @@ Bedürfnisorientierte Kommunikation
     - lebensnah
 
 
+    - Bedürfnis? Bedürfnispryramide kennt jeder....
+
+
 ----
 
 :data-x: -4800
@@ -101,6 +104,9 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
     - Eine Ergänzung für die eigene Entwicklung in und mit HT
     - Kann HT in der täglichen Kommunikation mit anderen und der Anamnese unterstützen
 
+
+    - Aufbau: 4-Phasiges Kommunikationsmodell, Techniken, "Positionen" gegenüber meinen Bedürfnissen und den Bedürfnissen anderer
+
 ----
 
 :data-x: -3200
@@ -112,7 +118,7 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
 
 :data-rotate-y: 0
 :data-x: -1600
-:data-y: -3200
+:data-y: -1200
 
 1. Beobachtung
 --------------
@@ -130,7 +136,7 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
 
 :data-rotate-y: 0
 :data-x: -1600
-:data-y: -1600
+:data-y: -600
 
 2. Gefühl
 ---------
@@ -174,7 +180,7 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
 
 :data-rotate-y: 0
 :data-x: -1600
-:data-y: 1600
+:data-y: 600
 
 
 4. Positive Handlungsanweisung
@@ -196,7 +202,7 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
 :data-rotate-y: 0
 :data-x: -3200
 :data-y: -200
-:data-z: 1200
+:data-z: 80
 
 Beispiele
 =========
@@ -224,8 +230,8 @@ Techniken und Anti-Techniken in der Bedürfnisorientierten Kommunikation
 ----
 
 :data-x: -2200
-:data-y: 7200
-:data-z: -3200
+:data-y: 7500
+:data-z: -3000
 :hovercraft-path: m1000,1000 a80,50  0 0,1 100,0
 
 Vollständig Hin-Hören 
@@ -272,8 +278,8 @@ mein Gesprächspartner folgt automatisch
 ----
 
 :data-x: -2200
-:data-y: 8800
-:data-z: -3200
+:data-y: 8500
+:data-z: -3000
 :hovercraft-path: m1000,1000 a80,50  0 0,0 100,0
 
 "aber"
@@ -286,7 +292,7 @@ ist Zurückweisung
 
     - Zurückweisung der Bedürfnisse anderer
     - Gegenposition
-    - Beispiele
+    - Beispiel von der Frau im Drogenheim
 
 ----
 
