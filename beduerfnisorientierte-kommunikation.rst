@@ -19,8 +19,8 @@
 :data-y: -2400
 
 
-Hallo!
-======
+Hallo lieber HT-Master Kurs!
+============================
 
 ----
 
@@ -28,7 +28,7 @@ Hallo!
 
 
 
-Vor einigen Jahren habe ich von einem Freund ein bestimmtes Kommunikationskonzept empfohlen bekommen.
+Vor einigen Jahren habe ich von einem Freund ein Kommunikationskonzept empfohlen bekommen.
 Damals bin ich dieser Empfehlung nicht gefolgt. Erst vor etwa zwei Jahren bin ich zufällig wieder auf das Konzept 
 aufmerksam geworden und habe mich intensiv damit beschäftigt.
 
@@ -39,8 +39,8 @@ Heute stelle ich euch dieses Konzept im Rahmen meiner Human-Therapy-Masterarbeit
 :data-y: -600
 
 
-Das Konzept hat mir gibt mir Selbstvertrauen gegeben. Ich fühle mich sichererer in der Kommunikation mit anderen und
-habe mehr Kontakt zu mir selbst und innnere Ruhe gewonnen.
+Das Konzept gib mir Sicherheit in der Kommunikation mit anderen. Darüber hinaus habe ich 
+mehr Kontakt zu mir selbst und innnere Ruhe gewonnen.
 Darüber freue ich mich sehr und möchte es nicht mehr missen.
 
 ----
@@ -273,7 +273,7 @@ mein Gesprächspartner folgt automatisch
  
 
 .. note::
-    - nu zu dem, was man vermeiden sollte
+    - nun zu dem, was man vermeiden sollte
 
 ----
 
@@ -324,30 +324,12 @@ Verneinungen vermeiden
 
 ----
 
-
-:data-x: 90000
-:data-y: 90000
+:data-x: -8800
+:data-y: 10000
 :data-z: 0
+:data-rotate: 0
 
-
-"What's alive in you?"
-
-- thanks a lot -
-    
-
-----
-
-Affiliate links:
-
-GFK Hörspiel
-GFK Hörspiel english
-Bücher
-
-
-----
-
-
-Drei Entwicklungsstufen
+Persönliche Entwicklung
 =======================
 
 1. Vom eigenen Bedürfnis entfremdet
@@ -360,6 +342,22 @@ Drei Entwicklungsstufen
     - 2: Agressiv, unnachgibig ("ach scheiß drauf", "rutsch mir den buckel runter")
     - 3: In Kontakt mit den eigenen Bedürfnissen und den Bedürfnissen anderer
 
+----
+
+:data-y: r1600
+
+
+Vielen Dank!
+------------
+
+`[Buch] Gewaltfreie Kommunikation: Eine Sprache des Lebens
+<https://www.amazon.de/gp/product/3955715728?ie=UTF8&tag=ly0d8-21&camp=1638&linkCode=xm2&creativeASIN=3955715728>`_
+
+`[Hörbuch] Gewaltfreie Kommunikation: Eine Sprache des Lebens - erweiterte Neuausgabe
+<https://www.amazon.de/gp/product/B06Y344M31?ie=UTF8&tag=ly0d8-21&camp=1638&linkCode=xm2&creativeASIN=B06Y344M31>`_
+
+`[Hörbuch] Gewaltfreie Kommunikation. Eine Sprache des Lebens. 4 CDs
+<https://www.amazon.de/gp/product/388698382X?ie=UTF8&tag=ly0d8-21&camp=1638&linkCode=xm2&creativeASIN=388698382X>`_
 
 
 
