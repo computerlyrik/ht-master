@@ -293,6 +293,7 @@ mein Gesprächspartner folgt automatisch
 
 .. note::
     - nun zu dem, was man beachten kann
+    - interessant selbst im Alltag zu Beachten
 
 ----
 
