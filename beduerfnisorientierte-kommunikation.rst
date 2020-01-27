@@ -80,7 +80,7 @@ Bedürfnisorientierte Kommunikation
 
     - Marshall B. Rosenberg als Junger Jude ziel von Gewalt
     - Entwickelt die BedüKomm zur Mediation von Konflikten
-    - Vorbild war seine Mutter, die die Bedürfnisorientierte Kommunikation gelebt hat - ohne es zu issen
+    - Vorbild war seine Mutter, die die Bedürfnisorientierte Kommunikation gelebt hat - ohne es zu wissen
     - Die Ergebnisse Lebenslange Arbeit hat Marshall B. Rosenberg in ein einfaches Vorgehensmodell gegossen
     - Mehr Kontakt zu den eigenen Bedürfnissen
     - lebensnah
@@ -296,12 +296,11 @@ mein Gesprächspartner folgt automatisch
 
 ----
 
-:data-x: -2200
+:data-x: -3000
 :data-y: 8500
 :data-z: -3000
 :hovercraft-path: m1000,1000 a80,50  0 0,0 100,0
 
-----
 
 "sollen und müssen" 
 -------------------
