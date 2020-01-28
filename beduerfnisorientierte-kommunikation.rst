@@ -102,8 +102,8 @@ Geschichte der Kommunikation und Verbindung zu Human Therapy
     - Unsere moderne Kommunikation ist hierarchisch geprägt, Von König zu Untertanen, Von Chef zu Angestellten, von Eltern zu Ihren Kindern
     - Kommandos / Befehle
     - Grunannahme der BedOrKomm: Positive Effekte für Beziehung, Arbeit etc.
-    - Bringt mich mir selbst und meinen Bedürfnissen näher
-    - Verstärkt die Empathie und die Verbindung zu den Bedürfnissen anderer
+    - Ziel1: Bringt mich mir selbst und meinen Bedürfnissen näher
+    - Ziel2: Verstärkt die Empathie und die Verbindung zu den Bedürfnissen anderer
     - Eine Ergänzung für die eigene Entwicklung in und mit HT
     - Kann HT in der täglichen Kommunikation mit anderen und der Anamnese unterstützen
 
